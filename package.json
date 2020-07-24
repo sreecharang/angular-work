@@ -4,6 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
+    "angular-cli": "npm install -g @angular/cli",
     "build": "ng build",
     "build-prod": "ng build --prod",
     "test": "ng test",
