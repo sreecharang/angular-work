@@ -6,6 +6,7 @@
     "start": "ng serve",
     "angular-cli": "npm install -g @angular/cli",
     "build": "ng build",
+    "build-test": "ng build --test",
     "build-prod": "ng build --prod",
     "test": "ng test",
     "lint": "ng lint",
